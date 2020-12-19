@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@vue/compiler-sfc": "^3.0.4",
+        "laravel-mix": "^6.0.0-beta.17",
+        "vue": "^3.0.4",
+        "vue-loader": "^16.1.2"
+    }
+}
