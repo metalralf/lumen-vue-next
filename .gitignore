@@ -274,3 +274,6 @@ dist/
 
 /public/css
 /public/js
+
+.idea/lumen-vue-next.iml
+.idea/lumen-vue-next.iml
