@@ -244,6 +244,7 @@ fabric.properties
 .idea/codestream.xml
 
 .idea/watcherTasks.xml
+.idea/lumen-vue-next.iml
 
 ### vscode ###
 .vscode/*
