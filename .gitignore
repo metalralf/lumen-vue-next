@@ -243,6 +243,8 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
+.idea/watcherTasks.xml
+
 ### vscode ###
 .vscode/*
 !.vscode/settings.json
@@ -266,3 +268,8 @@ test/
 dist/
 
 # End of https://www.toptal.com/developers/gitignore/api/laravel,node,phpstorm,vscode,vuejs,vue
+
+### Exclude Transpiled files ###
+
+/public/css
+/public/js
